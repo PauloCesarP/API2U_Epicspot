@@ -10,63 +10,42 @@
  - **Return type:** application/json
  - **Charset** utf-8
  - Query String Parameters:
-1. **id**
-**Type**: integer
-**required**: false
-
- 3. *endereco*
- 
+ 1. *id*
+ **Type**: integer
+ **required**: false
+ 2. *endereco*
  **Type**: string
  **required**: false
- 
  3. *cidade*
- 
  **Type**: string
  **required**: false
  4. *estado*
- 
  **Type**: string
  **required**: false
- 
  5. *bairro*
- 
- **Type**: string
- **required**: false 
- 
- 6. *cep*
- 
  **Type**: string
  **required**: false
- 
+ 6. *cep*
+ **Type**: string
+ **required**: false
  7. *quartos*
- 
  **Type**: integer
  **required**: false
- 
  8. *valorVendaMin*
- 
   **Type**: integer
  **required**: false
- 
  9. *valorVendaMax*
- 
   **Type**: integer
  **required**: false
- 
  10. *alugar*
- 
   **Type**: boolean
  **required**: false
  **1** to TRUE, **0** to FALSE
- 
  11. *vender*
- 
    **Type**: boolean
  **required**: false
  **1** to TRUE, **0** to FALSE
- 
  12. *piscina*
- 
    **Type**: boolean
  **required**: false
  **1** to TRUE, **0** to FALSE
@@ -108,8 +87,9 @@
         "ativo": "1"
     },
  ```
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls4MjQxMDUwMzAsLTUwNDYyODgs
+BnZm1cbiIsImhpc3RvcnkiOlstNTk3NzYwNDUsLTUwNDYyODgs
 LTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2NjAyMTcxOF19
 -->
