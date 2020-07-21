@@ -37,12 +37,12 @@
 >    **Type**: boolean  **required**: false  **1** to TRUE, **0** to
 > FALSE
  12. *piscina*
-   **Type**: boolean
- **required**: false
- **1** to TRUE, **0** to FALSE
- 
+>    **Type**: boolean  **required**: false  **1** to TRUE, **0** to
+> FALSE
+
  Return body:
- Type: **Array**
+> Type: **Array**
+
  ```json
  {
         "id": "12",
@@ -81,7 +81,7 @@
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszODI1MTkxNzEsLTU5Nzc2MDQ1
+BnZm1cbiIsImhpc3RvcnkiOlszMTQ3MTU2NDUsLTU5Nzc2MDQ1
 LC01MDQ2Mjg4LC04NjQ1MzE0MzAsMTY0OTIxMTE5Miw3NjYwMj
 E3MThdfQ==
 -->
