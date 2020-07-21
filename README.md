@@ -11,41 +11,63 @@
  - **Charset** utf-8
  - Query String Parameters:
  1. *id* 
+ 
  **Type**: integer
  **required**: false
- 3. *endereco*
+ 
+ 2. *endereco*
+ 
  **Type**: string
  **required**: false
- 4. *cidade*
+ 
+ 3. *cidade*
+ 
  **Type**: string
  **required**: false
- 5. *estado*
+ 4. *estado*
+ 
  **Type**: string
  **required**: false
- 6. *bairro*
+ 
+ 5. *bairro*
+ 
  **Type**: string
  **required**: false
- 7. *cep*
+ 
+ 6. *cep*
+ 
  **Type**: string
  **required**: false
- 8. *quartos*
+ 
+ 7. *quartos*
+ 
  **Type**: integer
  **required**: false
- 9. *valorVendaMin*
+ 
+ 8. *valorVendaMin*
+ 
   **Type**: integer
  **required**: false
- 10. *valorVendaMax*
+ 
+ 9. *valorVendaMax*
+ 
   **Type**: integer
  **required**: false
- 11. *alugar*
+ 
+ 10. *alugar*
+ 
   **Type**: boolean
  **required**: false
  **1** to TRUE, **0** to FALSE
- 12. *vender*
+ 
+ 11. *vender*
+ 
    **Type**: boolean
  **required**: false
  **1** to TRUE, **0** to FALSE
- 13. *piscina*
+ 
+ 12. *piscina*
+ 
    **Type**: boolean
  **required**: false
  **1** to TRUE, **0** to FALSE
@@ -88,5 +110,5 @@
     },
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM2NTc0NjYsNzY2MDIxNzE4XX0=
+eyJoaXN0b3J5IjpbMTY0OTIxMTE5Miw3NjYwMjE3MThdfQ==
 -->
