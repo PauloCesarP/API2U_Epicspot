@@ -11,12 +11,9 @@
  - **Charset** utf-8
  - Query String Parameters:
  1. *id*
-
 >  **Type**: integer  **required**: false
-
  2. *endereco*
- **Type**: string
- **required**: false
+> **Type**: string  **required**: false
  3. *cidade*
  **Type**: string
  **required**: false
@@ -91,7 +88,7 @@
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTgyNzA1NTIzNywtNTk3NzYw
-NDUsLTUwNDYyODgsLTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2Nj
-AyMTcxOF19
+BnZm1cbiIsImhpc3RvcnkiOls2MTIyMzgzNDEsLTU5Nzc2MDQ1
+LC01MDQ2Mjg4LC04NjQ1MzE0MzAsMTY0OTIxMTE5Miw3NjYwMj
+E3MThdfQ==
 -->
