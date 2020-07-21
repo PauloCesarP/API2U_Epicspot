@@ -9,6 +9,10 @@
  - **Consumes type:** application/json
  - **Return type:** application/json
  - **Charset** utf-8
+ - **Authentication**: 
+```html
+Authorization: Bearer `Token`
+``` 
  - Query String Parameters:
  1. *id*
 
@@ -80,7 +84,7 @@
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTExMTk0MjcwNywtNTk3NzYw
-NDUsLTUwNDYyODgsLTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2Nj
-AyMTcxOF19
+BnZm1cbiIsImhpc3RvcnkiOls5OTI2MjMxNzQsLTExMTE5NDI3
+MDcsLTU5Nzc2MDQ1LC01MDQ2Mjg4LC04NjQ1MzE0MzAsMTY0OT
+IxMTE5Miw3NjYwMjE3MThdfQ==
 -->
