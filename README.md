@@ -33,7 +33,7 @@
  5. *bairro*
  
  **Type**: string
- **required**: false
+ **required**: false 
  
  6. *cep*
  
