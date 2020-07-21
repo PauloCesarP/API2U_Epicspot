@@ -11,7 +11,6 @@
  - **Charset** utf-8
  - Query String Parameters:
  1. *id*
- 
  **Type**: integer
  **required**: false
  3. *endereco*
@@ -89,5 +88,5 @@
     },
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg5NDk5MDAsNzY2MDIxNzE4XX0=
+eyJoaXN0b3J5IjpbLTgwOTcxMTcyMCw3NjYwMjE3MThdfQ==
 -->
