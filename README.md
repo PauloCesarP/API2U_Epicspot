@@ -9,9 +9,10 @@
  - **Consumes type:** application/json
  - **Return type:** application/json
  - **Charset** utf-8
- - **Authentication**: 
+ - **Authentication**:  HTTP Header - Bearer Token
 ```html
-Authorization: Bearer `Token`
+Example:
+Authorization: Bearer b9237dfjkdbvidfyu83
 ``` 
  - Query String Parameters:
  1. *id*
@@ -84,7 +85,7 @@ Authorization: Bearer `Token`
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls5OTI2MjMxNzQsLTExMTE5NDI3
-MDcsLTU5Nzc2MDQ1LC01MDQ2Mjg4LC04NjQ1MzE0MzAsMTY0OT
-IxMTE5Miw3NjYwMjE3MThdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTYzMTgxNjI4MSwtMTExMTk0
+MjcwNywtNTk3NzYwNDUsLTUwNDYyODgsLTg2NDUzMTQzMCwxNj
+Q5MjExMTkyLDc2NjAyMTcxOF19
 -->
