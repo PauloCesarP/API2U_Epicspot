@@ -10,11 +10,9 @@
  - **Return type:** application/json
  - **Charset** utf-8
  - Query String Parameters:
- 1. **id**
-
- **Type**: integer
- 
- **required**: false
+1. **id**
+**Type**: integer
+**required**: false
 
  3. *endereco*
  
@@ -112,6 +110,6 @@
  ```
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTAyMDE3ODUyMiwtNTA0NjI4
-OCwtODY0NTMxNDMwLDE2NDkyMTExOTIsNzY2MDIxNzE4XX0=
+BnZm1cbiIsImhpc3RvcnkiOls4MjQxMDUwMzAsLTUwNDYyODgs
+LTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2NjAyMTcxOF19
 -->
