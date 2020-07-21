@@ -11,6 +11,7 @@
  - **Charset** utf-8
  - Query String Parameters:
  1. *id*
+
 >  **Type**: integer  **required**: false
  2. *endereco*
 > **Type**: string  **required**: false
@@ -18,31 +19,23 @@
  **Type**: string
  **required**: false
  4. *estado*
- **Type**: string
- **required**: false
+> **Type**: string  **required**: false
  5. *bairro*
- **Type**: string
- **required**: false
+>  **Type**: string  **required**: false
  6. *cep*
- **Type**: string
- **required**: false
+>  **Type**: string  **required**: false
  7. *quartos*
- **Type**: integer
- **required**: false
+>  **Type**: integer  **required**: false
  8. *valorVendaMin*
-  **Type**: integer
- **required**: false
+>   **Type**: integer  **required**: false
  9. *valorVendaMax*
-  **Type**: integer
- **required**: false
+>   **Type**: integer  **required**: false
  10. *alugar*
-  **Type**: boolean
- **required**: false
- **1** to TRUE, **0** to FALSE
+>   **Type**: boolean  **required**: false  **1** to TRUE, **0** to
+> FALSE
  11. *vender*
-   **Type**: boolean
- **required**: false
- **1** to TRUE, **0** to FALSE
+>    **Type**: boolean  **required**: false  **1** to TRUE, **0** to
+> FALSE
  12. *piscina*
    **Type**: boolean
  **required**: false
@@ -88,7 +81,7 @@
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOls2MTIyMzgzNDEsLTU5Nzc2MDQ1
+BnZm1cbiIsImhpc3RvcnkiOlszODI1MTkxNzEsLTU5Nzc2MDQ1
 LC01MDQ2Mjg4LC04NjQ1MzE0MzAsMTY0OTIxMTE5Miw3NjYwMj
 E3MThdfQ==
 -->
