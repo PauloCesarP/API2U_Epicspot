@@ -16,8 +16,7 @@
  2. *endereco*
 > **Type**: string  **required**: false
  3. *cidade*
- **Type**: string
- **required**: false
+>  **Type**: string  **required**: false
  4. *estado*
 > **Type**: string  **required**: false
  5. *bairro*
@@ -81,7 +80,7 @@
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszMTQ3MTU2NDUsLTU5Nzc2MDQ1
-LC01MDQ2Mjg4LC04NjQ1MzE0MzAsMTY0OTIxMTE5Miw3NjYwMj
-E3MThdfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTExMTk0MjcwNywtNTk3NzYw
+NDUsLTUwNDYyODgsLTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2Nj
+AyMTcxOF19
 -->
