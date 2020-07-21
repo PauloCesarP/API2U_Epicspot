@@ -11,8 +11,9 @@
  - **Charset** utf-8
  - Query String Parameters:
  1. *id*
- **Type**: integer
- **required**: false
+
+>  **Type**: integer  **required**: false
+
  2. *endereco*
  **Type**: string
  **required**: false
@@ -90,6 +91,7 @@
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstNTk3NzYwNDUsLTUwNDYyODgs
-LTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2NjAyMTcxOF19
+BnZm1cbiIsImhpc3RvcnkiOlstMTgyNzA1NTIzNywtNTk3NzYw
+NDUsLTUwNDYyODgsLTg2NDUzMTQzMCwxNjQ5MjExMTkyLDc2Nj
+AyMTcxOF19
 -->
